@@ -1,0 +1,44 @@
+{
+  "formatter": {
+    "enabled": true,
+    "formatWithErrors": false,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineEnding": "lf",
+    "lineWidth": 80,
+    "attributePosition": "auto",
+    "ignore": [
+      "**/.DS_Store",
+      "**/node_modules",
+      "**/npm-debug.log",
+      "**/public",
+      "**/build",
+      "**/dist",
+      "*/package-lock.json",
+      "**/bun.lockb",
+      "**/yarn.lock",
+      "**/.vscode",
+      "**/.idea"
+    ]
+  },
+  "organizeImports": {
+    "enabled": false
+  },
+  "linter": {
+    "enabled": false
+  },
+  "javascript": {
+    "formatter": {
+      "jsxQuoteStyle": "double",
+      "quoteStyle": "double",
+      "quoteProperties": "asNeeded",
+      "semicolons": "always",
+      "indentWidth": 2,
+      "indentStyle": "space",
+      "arrowParentheses": "asNeeded",
+      "bracketSpacing": true,
+      "bracketSameLine": false,
+      "attributePosition": "auto"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+[
+    {
+        "id": "8f8dc0b5-201c-4589-80d5-d7e8bcb099fb",
+        "name": "Economical",
+        "description": "Compact vehicles with excellent fuel economy and easy parking, perfect for urban driving.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/economico.png",
+        "popular_vehicles": [
+            "Fiat Mobi",
+            "Renault Kwid"
+        ],
+        "price": {
+            "min_price": 1860.0,
+            "max_price": 3082.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "3a51c1b0-f235-4ac0-8e39-2e5b80f3f473",
+        "name": "Manual Hatch",
+        "description": "Manual hatches offer agile handling and customization options, making them ideal for winding roads and drivers who want a personal touch.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/hatch_manual.png",
+        "popular_vehicles": [
+            "Fiat Argo",
+            "Volkswagen Polo",
+            "Citroen C3",
+            "Chevrolet Onix",
+            "Hyundai HB20",
+            "Peugeot 208"
+        ],
+        "price": {
+            "min_price": 2159.0,
+            "max_price": 3434.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "babe934f-7c32-4d33-a5b9-53a6f5b07c56",
+        "name": "Manual Sedan",
+        "description": "Manual sedans offer stable performance at higher speeds and ample cargo space for practical trips.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/sedan_manual.png",
+        "popular_vehicles": [
+            "Fiat Cronos",
+            "Chevrolet Onix Plus",
+            "Hyundai HB20S",
+            "Volkswagen Virtus"
+        ],
+        "price": {
+            "min_price": 2315.0,
+            "max_price": 3847.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "33672fb9-122e-4e27-aacf-a971619f02f2",
+        "name": "Utility",
+        "description": "Utilities are robust and practical, suitable for transporting heavy loads with ease and still offer agility in tight spaces.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/utilitarios.png",
+        "popular_vehicles": [
+            "Fiat Fiorino",
+            "Fiat Strada",
+            "Volkswagen Saveiro",
+            "Peugeot Expert",
+            "Citroen Jumpy"
+        ],
+        "price": {
+            "min_price": 2358.0,
+            "max_price": 10297.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "8c67c9c7-a2ae-4a33-bb4c-e10d27d9000f",
+        "name": "Medium SUV",
+        "description": "Medium SUVs are versatile, offering off-road capability and ample interior space, making them ideal for families and adventures.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/suv_medio.png",
+        "popular_vehicles": [
+            "Fiat Pulse",
+            "Volkswagen Nivus",
+            "Volkswagen T-Cross",
+            "Jeep Renegade",
+            "Chevrolet Tracker",
+            "Nissan Kicks",
+            "Hyundai Creta"
+        ],
+        "price": {
+            "min_price": 2481.0,
+            "max_price": 5410.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "10d20e7f-c1d8-4461-a41a-3c93310649b8",
+        "name": "Automatic Sedan",
+        "description": "Automatic sedans provide comfort with adjusted seats and suspensions and come with advanced driver assistance systems for added safety.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/sedan_automatico.png",
+        "popular_vehicles": [
+            "Fiat Cronos",
+            "Chevrolet Onix Plus",
+            "Hyundai HB20S",
+            "Volkswagen Virtus"
+        ],
+        "price": {
+            "min_price": 2656.0,
+            "max_price": 4304.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "3224fe1f-2b84-4c5b-8c8d-1a15b44f967c",
+        "name": "Automatic Hatch",
+        "description": "Automatic hatches provide a smooth drive and come with advanced connectivity systems for a modern travel experience.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/hatch_automatico.png",
+        "popular_vehicles": [
+            "Fiat Argo",
+            "Volkswagen Polo",
+            "Citroen C3",
+            "Chevrolet Onix",
+            "Hyundai HB20",
+            "Peugeot 208"
+        ],
+        "price": {
+            "min_price": 2657.0,
+            "max_price": 4407.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "30b332bb-9c78-4161-8344-2f5e1aa64af9",
+        "name": "Premium",
+        "description": "Premium vehicles offer maximum luxury and high-quality performance, combining advanced technology with a sophisticated driving experience.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/premium.png",
+        "popular_vehicles": [
+            "BMW 320i",
+            "Audi A3",
+            "Audi Q5"
+        ],
+        "price": {
+            "min_price": 3641.0,
+            "max_price": 46700.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "2719932c-00be-402e-a72c-697c1aaed8ce",
+        "name": "Executive",
+        "description": "Executive sedans offer a luxurious interior with high-quality finishes and advanced technology for a sophisticated driving experience.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/executivo.png",
+        "popular_vehicles": [
+            "Toyota Corolla",
+            "Nissan Sentra"
+        ],
+        "price": {
+            "min_price": 3817.0,
+            "max_price": 7285.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "a9912954-5b0a-4847-aeab-015c8fdbab9b",
+        "name": "Pickup",
+        "description": "Pickups are known for their towing capacity and load versatility, making them ideal for heavy tasks and diverse transport.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/caminhonete.png",
+        "popular_vehicles": [
+            "Toyota Hilux",
+            "Chevrolet S10",
+            "Ford Ranger",
+            "Mitsubishi L200",
+            "Volkswagen Amarok"
+        ],
+        "price": {
+            "min_price": 3817.0,
+            "max_price": 12823.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    },
+    {
+        "id": "d2c8ffe6-9f90-4555-9456-8ad99fe03cef",
+        "name": "Large SUV",
+        "description": "Large SUVs combine powerful performance with luxury, providing a dynamic and comfortable driving experience.",
+        "image": "https://hom-public-dryve-crm-service.s3.us-east-2.amazonaws.com/b2c/model/suv_grande.png",
+        "popular_vehicles": [
+            "Jeep Compass",
+            "Jeep Commander",
+            "CAOA Chery Tiggo 7",
+            "CAOA Chery Tiggo 8"
+        ],
+        "price": {
+            "min_price": 3972.0,
+            "max_price": 20070.0
+        },
+        "vehicle_transmission": null,
+        "eligible_for_armoured": false
+    }
+]

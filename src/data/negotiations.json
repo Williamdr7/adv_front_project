@@ -1,0 +1,137 @@
+[
+  {
+    "id": 3,
+    "title": "Negotiation for Toyota Camry",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Toyota Camry, I would like to rent it for 3 days and pay 150 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "Thank you for your offer! Can you confirm the pickup date?"
+      },
+      { "sender": "user", "text": "Sure, I can pick it up on Friday." }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Negotiation for Honda Accord",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Honda Accord, I would like to rent it for 1 week and pay 400 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "That sounds good! Do you need any additional services?"
+      },
+      { "sender": "user", "text": "Yes, I would like to add insurance." }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Negotiation for Ford Mustang",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Ford Mustang, I would like to rent it for 5 days and pay 300 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "I appreciate your offer! What is your preferred pickup location?"
+      },
+      { "sender": "user", "text": "I can pick it up at the airport." }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Negotiation for Chevrolet Malibu",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Chevrolet Malibu, I would like to rent it for 2 weeks and pay 800 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "That's a fair offer! Would you like to discuss the mileage limit?"
+      },
+      { "sender": "user", "text": "Yes, I would prefer unlimited mileage." }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Negotiation for Nissan Altima",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Nissan Altima, I would like to rent it for 4 days and pay 200 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "Thank you for your interest! Can you provide your driver's license?"
+      },
+      { "sender": "user", "text": "Of course, I can send it over." }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Negotiation for BMW 3 Series",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your BMW 3 Series, I would like to rent it for 10 days and pay 600 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "Sounds great! Do you have any specific requirements?"
+      },
+      { "sender": "user", "text": "I would like a GPS included." }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Negotiation for Audi A4",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Audi A4, I would like to rent it for 1 month and pay 1200 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "That's a long rental! Are you planning any road trips?"
+      },
+      { "sender": "user", "text": "Yes, I plan to travel across the state." }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Negotiation for Mercedes-Benz C-Class",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Mercedes-Benz C-Class, I would like to rent it for 2 weeks and pay 700 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "Thank you for your offer! Would you like to add any extra features?"
+      },
+      { "sender": "user", "text": "Yes, I would like to include a child seat." }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Negotiation for Hyundai Sonata",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hey, I have a proposal for your Hyundai Sonata, I would like to rent it for 3 days and pay 180 dollars."
+      },
+      {
+        "sender": "other",
+        "text": "I appreciate your offer! Can you confirm the return time?"
+      },
+      { "sender": "user", "text": "I will return it by 5 PM on Sunday." }
+    ]
+  }
+]
